@@ -1,0 +1,11 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "password": "Jackisthebest20!",
+  "database": "user_express_app",
+  "entities": ["src/entity/*.js"],
+  "logging": true,
+  "synchronize": true
+}
